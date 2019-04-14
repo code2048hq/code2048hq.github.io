@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on 神秘的程序员们</title>
+    <link>https://code2048.com/tags/python/</link>
+    <description>Recent content in Python on 神秘的程序员们</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>code2048.com - All rights reserved</copyright>
+    <lastBuildDate>Tue, 09 Aug 2016 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://code2048.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>千万不要在程序员群问代码……</title>
+      <link>https://code2048.com/post/53/</link>
+      <pubDate>Tue, 09 Aug 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/53/</guid>
+      <description>&lt;p&gt;从前，有一个小MM程序员，在学用python的过程中，遇到了这么一个问题：如何读取一种这种不规则的excel表？搜索无果后，她向一个80%都是程序员的群发起来求助……&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

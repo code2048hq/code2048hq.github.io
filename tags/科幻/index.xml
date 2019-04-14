@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>科幻 on 神秘的程序员们</title>
+    <link>https://code2048.com/tags/%E7%A7%91%E5%B9%BB/</link>
+    <description>Recent content in 科幻 on 神秘的程序员们</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>code2048.com - All rights reserved</copyright>
+    <lastBuildDate>Sun, 15 Jan 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://code2048.com/tags/%E7%A7%91%E5%B9%BB/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>如果……你生活的世界只是个模拟器</title>
+      <link>https://code2048.com/post/63/</link>
+      <pubDate>Sun, 15 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/63/</guid>
+      <description>&lt;p&gt;作为一个专门写程序的人，你一定怀疑过～～
+整个世界其实只是运行在模拟器里的程序
+或者
+我自己其实也不过是一段程序……&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>最低成本解决bug的方法</title>
+      <link>https://code2048.com/post/62/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/62/</guid>
+      <description>&lt;p&gt;解决bug有很多办法，其中有一个最简洁的方法是你想不到的。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>BetaCat 的前生后世</title>
+      <link>https://code2048.com/post/aboutbetacat/</link>
+      <pubDate>Thu, 21 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/aboutbetacat/</guid>
+      <description>&lt;p&gt;BetaCat 的故事是如何诞生的呢？以后又会怎样发展？ 创作背景、设定、幕后故事、彩蛋 大揭秘！&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>重启——代码的深渊（5/5）</title>
+      <link>https://code2048.com/post/betacat05/</link>
+      <pubDate>Tue, 05 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/betacat05/</guid>
+      <description>&lt;p&gt;大结局——2022年。某顶级的人工智能研发公司，一群突发奇想的任性科学家，一个用AI取代低级码农的疯狂想法，一个训练中的用来帮人类写代码的AI……&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>末日——代码的深渊（4/5）</title>
+      <link>https://code2048.com/post/betacat04/</link>
+      <pubDate>Mon, 04 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/betacat04/</guid>
+      <description>&lt;p&gt;大结局——2022年。某顶级的人工智能研发公司，一群突发奇想的任性科学家，一个用AI取代低级码农的疯狂想法，一个训练中的用来帮人类写代码的AI……&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>无恶意的谋杀——代码的深渊（3/5）</title>
+      <link>https://code2048.com/post/betacat03/</link>
+      <pubDate>Tue, 29 Mar 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/betacat03/</guid>
+      <description>&lt;p&gt;2022年。某顶级的人工智能研发公司，一群突发奇想的任性科学家，一个用AI取代低级码农的疯狂想法，一个训练中的用来帮人类写代码的AI……&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>BetaCat的秘密——代码的深渊（2/5）</title>
+      <link>https://code2048.com/post/betacat02/</link>
+      <pubDate>Tue, 22 Mar 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/betacat02/</guid>
+      <description>&lt;p&gt;2022年。某顶级的人工智能研发公司，一群突发奇想的任性科学家，一个用AI取代低级码农的疯狂想法，一个训练中的用来帮人类写代码的AI……&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>代码的深渊：2022年，一个试图用AI取代程序员的故事（1/5）</title>
+      <link>https://code2048.com/post/betacat01/</link>
+      <pubDate>Sun, 20 Mar 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/betacat01/</guid>
+      <description>&lt;p&gt;2022年。某顶级的人工智能研发公司，一群突发奇想的任性科学家，一个用AI取代低级码农的疯狂想法，一个训练中的用来帮人类写代码的AI……&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

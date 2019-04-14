@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>吐槽 on 神秘的程序员们</title>
+    <link>https://code2048.com/tags/%E5%90%90%E6%A7%BD/</link>
+    <description>Recent content in 吐槽 on 神秘的程序员们</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>code2048.com - All rights reserved</copyright>
+    <lastBuildDate>Fri, 27 Jul 2018 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://code2048.com/tags/%E5%90%90%E6%A7%BD/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>最让人头疼的软件用户</title>
+      <link>https://code2048.com/post/82/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/82/</guid>
+      <description>&lt;p&gt;全在这了……&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>如果你的代码只以通过测试样例为目标……</title>
+      <link>https://code2048.com/post/69/</link>
+      <pubDate>Thu, 06 Apr 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/69/</guid>
+      <description>&lt;p&gt;总会有人因此哭笑不得的&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>终极问题：用户到底看不看提示？</title>
+      <link>https://code2048.com/post/67/</link>
+      <pubDate>Mon, 13 Mar 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/67/</guid>
+      <description>&lt;p&gt;当你争论不过产品经理的时候，就不要争论了……你要做的，就是静静看着……&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>如何在办公室里制造“永动机”</title>
+      <link>https://code2048.com/post/65/</link>
+      <pubDate>Thu, 09 Feb 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/65/</guid>
+      <description>&lt;p&gt;作为程序员，你想在办公室为自己制造片刻的安宁吗？看这里……&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>如何奸诈得从卖软件上赚钱</title>
+      <link>https://code2048.com/post/54/</link>
+      <pubDate>Sun, 21 Aug 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/54/</guid>
+      <description>&lt;p&gt;苦哈哈得花一年写了款软件却买不出多少钱？NO~NO~那是因为你还不够奸诈……&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

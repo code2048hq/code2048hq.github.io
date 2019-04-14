@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>程序员 on 神秘的程序员们</title>
+    <link>https://code2048.com/tags/%E7%A8%8B%E5%BA%8F%E5%91%98/</link>
+    <description>Recent content in 程序员 on 神秘的程序员们</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>code2048.com - All rights reserved</copyright>
+    <lastBuildDate>Fri, 12 Oct 2018 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://code2048.com/tags/%E7%A8%8B%E5%BA%8F%E5%91%98/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>从学会用橡皮鸭 debug 的那天，我，走上一条不归之路</title>
+      <link>https://code2048.com/post/83/</link>
+      <pubDate>Fri, 12 Oct 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/83/</guid>
+      <description>&lt;p&gt;是的，洗澡时用的那个橡皮鸭&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>最让人头疼的软件用户</title>
+      <link>https://code2048.com/post/82/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/82/</guid>
+      <description>&lt;p&gt;全在这了……&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>编辑器圣战！！！</title>
+      <link>https://code2048.com/post/war_3_editor/</link>
+      <pubDate>Sun, 26 Feb 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/war_3_editor/</guid>
+      <description>&lt;p&gt;编辑器圣战，程序员星球上最为激烈的大型宗教战争，至少始于1985年，蔓延至今。计算机科学史上无数名人都卷入这场战争，两派信徒间的冲突势如水火。为了捍卫自己的工具信仰，人们跨越了文化、种族、国界、编程语言和操作系统的鸿沟。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>求求你，别学写代码了</title>
+      <link>https://code2048.com/post/61/</link>
+      <pubDate>Sun, 25 Dec 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/61/</guid>
+      <description>&lt;p&gt;(╬☉д⊙) 啊啊啊啊～～&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>千万不要在程序员群问代码……</title>
+      <link>https://code2048.com/post/53/</link>
+      <pubDate>Tue, 09 Aug 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/53/</guid>
+      <description>&lt;p&gt;从前，有一个小MM程序员，在学用python的过程中，遇到了这么一个问题：如何读取一种这种不规则的excel表？搜索无果后，她向一个80%都是程序员的群发起来求助……&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>缩进圣战！！！</title>
+      <link>https://code2048.com/post/war_2_tabspace/</link>
+      <pubDate>Fri, 09 Oct 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/war_2_tabspace/</guid>
+      <description>&lt;p&gt;缩进圣战，是一场双方实力悬殊但仍在激烈持续的大型宗教战争，打响于人们使用编辑器编写代码伊始。同样具有跨文化、跨种族、跨国界、跨编辑器、跨编程语言的特征。这场水火不容的代码风格之战表面大局已定，但仍战火难熄，不时狼烟再起。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>大括号的圣战！！！</title>
+      <link>https://code2048.com/post/war_1_curlybraces/</link>
+      <pubDate>Thu, 17 Sep 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/war_1_curlybraces/</guid>
+      <description>&lt;p&gt;大括号圣战，也称换行圣战，是一场已持续了数十年的大型宗教战争，起源于计算机语言诞生之始。具有跨文化、跨国界、跨编辑器、跨编程语言及自然语言的特征。这场斗争激烈的代码风格捍卫之战至今仍在继续，对程序员星球造成了深远的社会和文化影响。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

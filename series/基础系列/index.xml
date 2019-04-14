@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>基础系列 on 神秘的程序员们</title>
+    <link>https://code2048.com/series/%E5%9F%BA%E7%A1%80%E7%B3%BB%E5%88%97/</link>
+    <description>Recent content in 基础系列 on 神秘的程序员们</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>code2048.com - All rights reserved</copyright>
+    <lastBuildDate>Tue, 12 Mar 2019 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://code2048.com/series/%E5%9F%BA%E7%A1%80%E7%B3%BB%E5%88%97/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>平时的你 vs 面试的你</title>
+      <link>https://code2048.com/post/84/</link>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/84/</guid>
+      <description>&lt;p&gt;本期漫画內容涉及危险动作，切勿模仿&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>从学会用橡皮鸭 debug 的那天，我，走上一条不归之路</title>
+      <link>https://code2048.com/post/83/</link>
+      <pubDate>Fri, 12 Oct 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/83/</guid>
+      <description>&lt;p&gt;是的，洗澡时用的那个橡皮鸭&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>最让人头疼的软件用户</title>
+      <link>https://code2048.com/post/82/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/82/</guid>
+      <description>&lt;p&gt;全在这了……&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>超时工作真能解决问题吗？(3/3)</title>
+      <link>https://code2048.com/post/81/</link>
+      <pubDate>Fri, 26 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/81/</guid>
+      <description>&lt;p&gt;加班有用吗？我该认命接受加班吗？&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>该我加的班我加了，不该我加的班我也加了……(2/3)</title>
+      <link>https://code2048.com/post/80/</link>
+      <pubDate>Thu, 25 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/80/</guid>
+      <description>&lt;p&gt;企业标准？行业文化？事情是怎么变坏的……&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>该我加的班我加了，不该我加的班我也加了……(1/3)</title>
+      <link>https://code2048.com/post/79/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/79/</guid>
+      <description>&lt;p&gt;来来来，理性探讨下 程序员们到底在因为什么而加班？&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>如果你的代码只以通过测试样例为目标……</title>
+      <link>https://code2048.com/post/69/</link>
+      <pubDate>Thu, 06 Apr 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/69/</guid>
+      <description>&lt;p&gt;总会有人因此哭笑不得的&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>开发和产品之间的恩怨从何来? </title>
+      <link>https://code2048.com/post/68/</link>
+      <pubDate>Thu, 23 Mar 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/68/</guid>
+      <description>&lt;p&gt;人和人之间宝贵的信任都去哪了？&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>终极问题：用户到底看不看提示？</title>
+      <link>https://code2048.com/post/67/</link>
+      <pubDate>Mon, 13 Mar 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/67/</guid>
+      <description>&lt;p&gt;当你争论不过产品经理的时候，就不要争论了……你要做的，就是静静看着……&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>世界上哪些互联网服务宕掉后， 程序员受影响最大？</title>
+      <link>https://code2048.com/post/66/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/66/</guid>
+      <description>&lt;p&gt;如题&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>如何在办公室里制造“永动机”</title>
+      <link>https://code2048.com/post/65/</link>
+      <pubDate>Thu, 09 Feb 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/65/</guid>
+      <description>&lt;p&gt;作为程序员，你想在办公室为自己制造片刻的安宁吗？看这里……&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>为什么你叕忘了一堆事？？</title>
+      <link>https://code2048.com/post/64/</link>
+      <pubDate>Sun, 22 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/64/</guid>
+      <description>&lt;p&gt;忙碌的一天过去了，你写了2个小时代码，参加了3个正式会议和9个小讨论；参与了15个大大小小的任务，答应了12件事，但是……却忘了其中6件 ？？？&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>如果……你生活的世界只是个模拟器</title>
+      <link>https://code2048.com/post/63/</link>
+      <pubDate>Sun, 15 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/63/</guid>
+      <description>&lt;p&gt;作为一个专门写程序的人，你一定怀疑过～～
+整个世界其实只是运行在模拟器里的程序
+或者
+我自己其实也不过是一段程序……&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>最低成本解决bug的方法</title>
+      <link>https://code2048.com/post/62/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/62/</guid>
+      <description>&lt;p&gt;解决bug有很多办法，其中有一个最简洁的方法是你想不到的。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>求求你，别学写代码了</title>
+      <link>https://code2048.com/post/61/</link>
+      <pubDate>Sun, 25 Dec 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/61/</guid>
+      <description>&lt;p&gt;(╬☉д⊙) 啊啊啊啊～～&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>程序员们想说的是啥，你真听懂了吗？</title>
+      <link>https://code2048.com/post/60/</link>
+      <pubDate>Sun, 04 Dec 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/60/</guid>
+      <description>&lt;p&gt;程序员们的潜台词？&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>新来的安全专家，几个月后，哭了……</title>
+      <link>https://code2048.com/post/59/</link>
+      <pubDate>Wed, 16 Nov 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/59/</guid>
+      <description>&lt;p&gt;新入职了一位信息安全专家，他非常尽忠职守，特别费心得设计了各种规范和措施来保障公司系统的安全级别。但与此同时，在某个不为人知的角落……&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>这就是为啥你今晚又要加班了……</title>
+      <link>https://code2048.com/post/58/</link>
+      <pubDate>Mon, 31 Oct 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/58/</guid>
+      <description>&lt;p&gt;“你看你也写了不少年程序了，这点状况考虑不到？”&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>为什么程序员们喜欢写脚本？</title>
+      <link>https://code2048.com/post/57/</link>
+      <pubDate>Fri, 23 Sep 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/57/</guid>
+      <description>&lt;p&gt;重复200次只需花2小时的事，程序员会花5个小时写个脚本来解决。这是一种病吗？为什么程序员们爱写脚本？我们要不要消灭这些“破坏世界公平”的“坏码农”？&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>给各大操作系统过生日的正确姿势</title>
+      <link>https://code2048.com/post/56/</link>
+      <pubDate>Sun, 11 Sep 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/56/</guid>
+      <description>&lt;p&gt;复仇的时刻如此美妙，让我们把蛋糕准备好……&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>新技术焦虑症？来这里拿药 ～～</title>
+      <link>https://code2048.com/post/55/</link>
+      <pubDate>Wed, 31 Aug 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/55/</guid>
+      <description>&lt;p&gt;这么多新技术都看不惯？不是你的错～～&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>如何奸诈得从卖软件上赚钱</title>
+      <link>https://code2048.com/post/54/</link>
+      <pubDate>Sun, 21 Aug 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/54/</guid>
+      <description>&lt;p&gt;苦哈哈得花一年写了款软件却买不出多少钱？NO~NO~那是因为你还不够奸诈……&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>千万不要在程序员群问代码……</title>
+      <link>https://code2048.com/post/53/</link>
+      <pubDate>Tue, 09 Aug 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/53/</guid>
+      <description>&lt;p&gt;从前，有一个小MM程序员，在学用python的过程中，遇到了这么一个问题：如何读取一种这种不规则的excel表？搜索无果后，她向一个80%都是程序员的群发起来求助……&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>拿代码量算KPI……跟程序员们来这套？(下）</title>
+      <link>https://code2048.com/post/52/</link>
+      <pubDate>Wed, 27 Jul 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/52/</guid>
+      <description>&lt;p&gt;连静态分析也上了！兵来将挡，开发部门会祭出什么奇葩招数呢？这场闹剧未来又该如何收场呢？&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>拿代码量算KPI……跟程序员们来这套？(上）</title>
+      <link>https://code2048.com/post/51/</link>
+      <pubDate>Sun, 24 Jul 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/51/</guid>
+      <description>&lt;p&gt;整天对着屏幕敲啊敲的程序员们，到底每天干了多少活？
+不行，必须也考核他们的KPI。
+一场由HR和IT部门掀起的荒唐战争打响了～～&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

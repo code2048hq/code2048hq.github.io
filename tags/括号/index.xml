@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>括号 on 神秘的程序员们</title>
+    <link>https://code2048.com/tags/%E6%8B%AC%E5%8F%B7/</link>
+    <description>Recent content in 括号 on 神秘的程序员们</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>code2048.com - All rights reserved</copyright>
+    <lastBuildDate>Thu, 17 Sep 2015 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://code2048.com/tags/%E6%8B%AC%E5%8F%B7/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>大括号的圣战！！！</title>
+      <link>https://code2048.com/post/war_1_curlybraces/</link>
+      <pubDate>Thu, 17 Sep 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/war_1_curlybraces/</guid>
+      <description>&lt;p&gt;大括号圣战，也称换行圣战，是一场已持续了数十年的大型宗教战争，起源于计算机语言诞生之始。具有跨文化、跨国界、跨编辑器、跨编程语言及自然语言的特征。这场斗争激烈的代码风格捍卫之战至今仍在继续，对程序员星球造成了深远的社会和文化影响。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>程序 on 神秘的程序员们</title>
+    <link>https://code2048.com/tags/%E7%A8%8B%E5%BA%8F/</link>
+    <description>Recent content in 程序 on 神秘的程序员们</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>code2048.com - All rights reserved</copyright>
+    <lastBuildDate>Thu, 06 Apr 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://code2048.com/tags/%E7%A8%8B%E5%BA%8F/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>如果你的代码只以通过测试样例为目标……</title>
+      <link>https://code2048.com/post/69/</link>
+      <pubDate>Thu, 06 Apr 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/69/</guid>
+      <description>&lt;p&gt;总会有人因此哭笑不得的&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

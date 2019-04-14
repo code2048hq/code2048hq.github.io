@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>缩进 on 神秘的程序员们</title>
+    <link>https://code2048.com/tags/%E7%BC%A9%E8%BF%9B/</link>
+    <description>Recent content in 缩进 on 神秘的程序员们</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>code2048.com - All rights reserved</copyright>
+    <lastBuildDate>Fri, 09 Oct 2015 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://code2048.com/tags/%E7%BC%A9%E8%BF%9B/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>缩进圣战！！！</title>
+      <link>https://code2048.com/post/war_2_tabspace/</link>
+      <pubDate>Fri, 09 Oct 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/war_2_tabspace/</guid>
+      <description>&lt;p&gt;缩进圣战，是一场双方实力悬殊但仍在激烈持续的大型宗教战争，打响于人们使用编辑器编写代码伊始。同样具有跨文化、跨种族、跨国界、跨编辑器、跨编程语言的特征。这场水火不容的代码风格之战表面大局已定，但仍战火难熄，不时狼烟再起。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

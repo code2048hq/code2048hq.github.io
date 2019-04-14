@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>需求 on 神秘的程序员们</title>
+    <link>https://code2048.com/tags/%E9%9C%80%E6%B1%82/</link>
+    <description>Recent content in 需求 on 神秘的程序员们</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>code2048.com - All rights reserved</copyright>
+    <lastBuildDate>Mon, 31 Oct 2016 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://code2048.com/tags/%E9%9C%80%E6%B1%82/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>这就是为啥你今晚又要加班了……</title>
+      <link>https://code2048.com/post/58/</link>
+      <pubDate>Mon, 31 Oct 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/58/</guid>
+      <description>&lt;p&gt;“你看你也写了不少年程序了，这点状况考虑不到？”&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

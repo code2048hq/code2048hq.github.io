@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>编辑器 on 神秘的程序员们</title>
+    <link>https://code2048.com/tags/%E7%BC%96%E8%BE%91%E5%99%A8/</link>
+    <description>Recent content in 编辑器 on 神秘的程序员们</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>code2048.com - All rights reserved</copyright>
+    <lastBuildDate>Sun, 26 Feb 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://code2048.com/tags/%E7%BC%96%E8%BE%91%E5%99%A8/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>编辑器圣战！！！</title>
+      <link>https://code2048.com/post/war_3_editor/</link>
+      <pubDate>Sun, 26 Feb 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/war_3_editor/</guid>
+      <description>&lt;p&gt;编辑器圣战，程序员星球上最为激烈的大型宗教战争，至少始于1985年，蔓延至今。计算机科学史上无数名人都卷入这场战争，两派信徒间的冲突势如水火。为了捍卫自己的工具信仰，人们跨越了文化、种族、国界、编程语言和操作系统的鸿沟。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>千万不要在程序员群问代码……</title>
+      <link>https://code2048.com/post/53/</link>
+      <pubDate>Tue, 09 Aug 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/53/</guid>
+      <description>&lt;p&gt;从前，有一个小MM程序员，在学用python的过程中，遇到了这么一个问题：如何读取一种这种不规则的excel表？搜索无果后，她向一个80%都是程序员的群发起来求助……&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Php on 神秘的程序员们</title>
+    <link>https://code2048.com/tags/php/</link>
+    <description>Recent content in Php on 神秘的程序员们</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>code2048.com - All rights reserved</copyright>
+    <lastBuildDate>Mon, 16 Nov 2015 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://code2048.com/tags/php/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>部落图鉴之PHP：迎着全世界的嘲讽占领世界</title>
+      <link>https://code2048.com/post/lang_php/</link>
+      <pubDate>Mon, 16 Nov 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/lang_php/</guid>
+      <description>&lt;p&gt;以你从未见过的方式讲述编程语言的故事&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>编程语言图鉴</title>
+      <link>https://code2048.com/post/languagetribe/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/languagetribe/</guid>
+      <description>&lt;p&gt;以你从未见过的方式讲述编程语言的故事&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

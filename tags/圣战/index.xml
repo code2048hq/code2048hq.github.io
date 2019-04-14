@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>圣战 on 神秘的程序员们</title>
+    <link>https://code2048.com/tags/%E5%9C%A3%E6%88%98/</link>
+    <description>Recent content in 圣战 on 神秘的程序员们</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>code2048.com - All rights reserved</copyright>
+    <lastBuildDate>Sun, 26 Feb 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://code2048.com/tags/%E5%9C%A3%E6%88%98/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>编辑器圣战！！！</title>
+      <link>https://code2048.com/post/war_3_editor/</link>
+      <pubDate>Sun, 26 Feb 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/war_3_editor/</guid>
+      <description>&lt;p&gt;编辑器圣战，程序员星球上最为激烈的大型宗教战争，至少始于1985年，蔓延至今。计算机科学史上无数名人都卷入这场战争，两派信徒间的冲突势如水火。为了捍卫自己的工具信仰，人们跨越了文化、种族、国界、编程语言和操作系统的鸿沟。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>缩进圣战！！！</title>
+      <link>https://code2048.com/post/war_2_tabspace/</link>
+      <pubDate>Fri, 09 Oct 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/war_2_tabspace/</guid>
+      <description>&lt;p&gt;缩进圣战，是一场双方实力悬殊但仍在激烈持续的大型宗教战争，打响于人们使用编辑器编写代码伊始。同样具有跨文化、跨种族、跨国界、跨编辑器、跨编程语言的特征。这场水火不容的代码风格之战表面大局已定，但仍战火难熄，不时狼烟再起。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>大括号的圣战！！！</title>
+      <link>https://code2048.com/post/war_1_curlybraces/</link>
+      <pubDate>Thu, 17 Sep 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/war_1_curlybraces/</guid>
+      <description>&lt;p&gt;大括号圣战，也称换行圣战，是一场已持续了数十年的大型宗教战争，起源于计算机语言诞生之始。具有跨文化、跨国界、跨编辑器、跨编程语言及自然语言的特征。这场斗争激烈的代码风格捍卫之战至今仍在继续，对程序员星球造成了深远的社会和文化影响。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

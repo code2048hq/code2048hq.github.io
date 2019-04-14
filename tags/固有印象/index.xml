@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>固有印象 on 神秘的程序员们</title>
+    <link>https://code2048.com/tags/%E5%9B%BA%E6%9C%89%E5%8D%B0%E8%B1%A1/</link>
+    <description>Recent content in 固有印象 on 神秘的程序员们</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>code2048.com - All rights reserved</copyright>
+    <lastBuildDate>Thu, 23 Mar 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://code2048.com/tags/%E5%9B%BA%E6%9C%89%E5%8D%B0%E8%B1%A1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>开发和产品之间的恩怨从何来? </title>
+      <link>https://code2048.com/post/68/</link>
+      <pubDate>Thu, 23 Mar 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/68/</guid>
+      <description>&lt;p&gt;人和人之间宝贵的信任都去哪了？&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

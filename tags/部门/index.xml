@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>部门 on 神秘的程序员们</title>
+    <link>https://code2048.com/tags/%E9%83%A8%E9%97%A8/</link>
+    <description>Recent content in 部门 on 神秘的程序员们</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>code2048.com - All rights reserved</copyright>
+    <lastBuildDate>Wed, 27 Jul 2016 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://code2048.com/tags/%E9%83%A8%E9%97%A8/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>拿代码量算KPI……跟程序员们来这套？(下）</title>
+      <link>https://code2048.com/post/52/</link>
+      <pubDate>Wed, 27 Jul 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/52/</guid>
+      <description>&lt;p&gt;连静态分析也上了！兵来将挡，开发部门会祭出什么奇葩招数呢？这场闹剧未来又该如何收场呢？&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>拿代码量算KPI……跟程序员们来这套？(上）</title>
+      <link>https://code2048.com/post/51/</link>
+      <pubDate>Sun, 24 Jul 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/51/</guid>
+      <description>&lt;p&gt;整天对着屏幕敲啊敲的程序员们，到底每天干了多少活？
+不行，必须也考核他们的KPI。
+一场由HR和IT部门掀起的荒唐战争打响了～～&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

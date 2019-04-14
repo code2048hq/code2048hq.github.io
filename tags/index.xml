@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 神秘的程序员们</title>
+    <link>https://code2048.com/tags/</link>
+    <description>Recent content in Tags on 神秘的程序员们</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>code2048.com - All rights reserved</copyright>
+    <lastBuildDate>Thu, 21 Apr 2016 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://code2048.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ai</title>
+      <link>https://code2048.com/tags/ai/</link>
+      <pubDate>Thu, 21 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apple</title>
+      <link>https://code2048.com/tags/apple/</link>
+      <pubDate>Sun, 11 Sep 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/apple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Betacat</title>
+      <link>https://code2048.com/tags/betacat/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/betacat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bsd</title>
+      <link>https://code2048.com/tags/bsd/</link>
+      <pubDate>Sun, 11 Sep 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/bsd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bug</title>
+      <link>https://code2048.com/tags/bug/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/bug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Github</title>
+      <link>https://code2048.com/tags/github/</link>
+      <pubDate>Wed, 16 Nov 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Go</title>
+      <link>https://code2048.com/tags/go/</link>
+      <pubDate>Wed, 03 May 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hr</title>
+      <link>https://code2048.com/tags/hr/</link>
+      <pubDate>Wed, 27 Jul 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/hr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javascript</title>
+      <link>https://code2048.com/tags/javascript/</link>
+      <pubDate>Wed, 30 Nov 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kpi</title>
+      <link>https://code2048.com/tags/kpi/</link>
+      <pubDate>Wed, 27 Jul 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/kpi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://code2048.com/tags/linux/</link>
+      <pubDate>Sun, 11 Sep 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Php</title>
+      <link>https://code2048.com/tags/php/</link>
+      <pubDate>Mon, 16 Nov 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/php/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://code2048.com/tags/python/</link>
+      <pubDate>Tue, 09 Aug 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows</title>
+      <link>https://code2048.com/tags/windows/</link>
+      <pubDate>Sun, 11 Sep 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/windows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>云计算</title>
+      <link>https://code2048.com/tags/%E4%BA%91%E8%AE%A1%E7%AE%97/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/%E4%BA%91%E8%AE%A1%E7%AE%97/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>产品</title>
+      <link>https://code2048.com/tags/%E4%BA%A7%E5%93%81/</link>
+      <pubDate>Thu, 23 Mar 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/%E4%BA%A7%E5%93%81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>代沟</title>
+      <link>https://code2048.com/tags/%E4%BB%A3%E6%B2%9F/</link>
+      <pubDate>Wed, 31 Aug 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/%E4%BB%A3%E6%B2%9F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>代码</title>
+      <link>https://code2048.com/tags/%E4%BB%A3%E7%A0%81/</link>
+      <pubDate>Sun, 04 Dec 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/%E4%BB%A3%E7%A0%81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>代码风格</title>
+      <link>https://code2048.com/tags/%E4%BB%A3%E7%A0%81%E9%A3%8E%E6%A0%BC/</link>
+      <pubDate>Fri, 09 Oct 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/%E4%BB%A3%E7%A0%81%E9%A3%8E%E6%A0%BC/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>偷懒</title>
+      <link>https://code2048.com/tags/%E5%81%B7%E6%87%92/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/%E5%81%B7%E6%87%92/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>公司</title>
+      <link>https://code2048.com/tags/%E5%85%AC%E5%8F%B8/</link>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/%E5%85%AC%E5%8F%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>加班</title>
+      <link>https://code2048.com/tags/%E5%8A%A0%E7%8F%AD/</link>
+      <pubDate>Fri, 26 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/%E5%8A%A0%E7%8F%AD/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>吐槽</title>
+      <link>https://code2048.com/tags/%E5%90%90%E6%A7%BD/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/%E5%90%90%E6%A7%BD/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>固有印象</title>
+      <link>https://code2048.com/tags/%E5%9B%BA%E6%9C%89%E5%8D%B0%E8%B1%A1/</link>
+      <pubDate>Thu, 23 Mar 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/%E5%9B%BA%E6%9C%89%E5%8D%B0%E8%B1%A1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>圣战</title>
+      <link>https://code2048.com/tags/%E5%9C%A3%E6%88%98/</link>
+      <pubDate>Sun, 26 Feb 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/%E5%9C%A3%E6%88%98/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>备份</title>
+      <link>https://code2048.com/tags/%E5%A4%87%E4%BB%BD/</link>
+      <pubDate>Tue, 24 Oct 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/%E5%A4%87%E4%BB%BD/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>女朋友</title>
+      <link>https://code2048.com/tags/%E5%A5%B3%E6%9C%8B%E5%8F%8B/</link>
+      <pubDate>Mon, 28 Aug 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/%E5%A5%B3%E6%9C%8B%E5%8F%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>安全</title>
+      <link>https://code2048.com/tags/%E5%AE%89%E5%85%A8/</link>
+      <pubDate>Mon, 28 Aug 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/%E5%AE%89%E5%85%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>容器</title>
+      <link>https://code2048.com/tags/%E5%AE%B9%E5%99%A8/</link>
+      <pubDate>Fri, 23 Sep 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/%E5%AE%B9%E5%99%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>密码</title>
+      <link>https://code2048.com/tags/%E5%AF%86%E7%A0%81/</link>
+      <pubDate>Mon, 28 Aug 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/%E5%AF%86%E7%A0%81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>工具</title>
+      <link>https://code2048.com/tags/%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Sun, 26 Feb 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/%E5%B7%A5%E5%85%B7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>开会</title>
+      <link>https://code2048.com/tags/%E5%BC%80%E4%BC%9A/</link>
+      <pubDate>Fri, 26 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/%E5%BC%80%E4%BC%9A/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>开源</title>
+      <link>https://code2048.com/tags/%E5%BC%80%E6%BA%90/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/%E5%BC%80%E6%BA%90/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>括号</title>
+      <link>https://code2048.com/tags/%E6%8B%AC%E5%8F%B7/</link>
+      <pubDate>Thu, 17 Sep 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/%E6%8B%AC%E5%8F%B7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>操作系统</title>
+      <link>https://code2048.com/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</link>
+      <pubDate>Sun, 11 Sep 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>效率</title>
+      <link>https://code2048.com/tags/%E6%95%88%E7%8E%87/</link>
+      <pubDate>Fri, 26 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/%E6%95%88%E7%8E%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>新技术</title>
+      <link>https://code2048.com/tags/%E6%96%B0%E6%8A%80%E6%9C%AF/</link>
+      <pubDate>Wed, 31 Aug 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/%E6%96%B0%E6%8A%80%E6%9C%AF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>月饼</title>
+      <link>https://code2048.com/tags/%E6%9C%88%E9%A5%BC/</link>
+      <pubDate>Fri, 23 Sep 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/%E6%9C%88%E9%A5%BC/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>测试</title>
+      <link>https://code2048.com/tags/%E6%B5%8B%E8%AF%95/</link>
+      <pubDate>Fri, 12 Oct 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/%E6%B5%8B%E8%AF%95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>溢出</title>
+      <link>https://code2048.com/tags/%E6%BA%A2%E5%87%BA/</link>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/%E6%BA%A2%E5%87%BA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>潜台词</title>
+      <link>https://code2048.com/tags/%E6%BD%9C%E5%8F%B0%E8%AF%8D/</link>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/%E6%BD%9C%E5%8F%B0%E8%AF%8D/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>热点</title>
+      <link>https://code2048.com/tags/%E7%83%AD%E7%82%B9/</link>
+      <pubDate>Wed, 31 Aug 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/%E7%83%AD%E7%82%B9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>生活</title>
+      <link>https://code2048.com/tags/%E7%94%9F%E6%B4%BB/</link>
+      <pubDate>Tue, 24 Oct 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/%E7%94%9F%E6%B4%BB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>用户</title>
+      <link>https://code2048.com/tags/%E7%94%A8%E6%88%B7/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/%E7%94%A8%E6%88%B7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>男朋友</title>
+      <link>https://code2048.com/tags/%E7%94%B7%E6%9C%8B%E5%8F%8B/</link>
+      <pubDate>Tue, 24 Oct 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/%E7%94%B7%E6%9C%8B%E5%8F%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>科幻</title>
+      <link>https://code2048.com/tags/%E7%A7%91%E5%B9%BB/</link>
+      <pubDate>Sun, 15 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/%E7%A7%91%E5%B9%BB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>程序</title>
+      <link>https://code2048.com/tags/%E7%A8%8B%E5%BA%8F/</link>
+      <pubDate>Thu, 06 Apr 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/%E7%A8%8B%E5%BA%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>程序员</title>
+      <link>https://code2048.com/tags/%E7%A8%8B%E5%BA%8F%E5%91%98/</link>
+      <pubDate>Fri, 12 Oct 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/%E7%A8%8B%E5%BA%8F%E5%91%98/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>管理</title>
+      <link>https://code2048.com/tags/%E7%AE%A1%E7%90%86/</link>
+      <pubDate>Wed, 27 Jul 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/%E7%AE%A1%E7%90%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>编辑器</title>
+      <link>https://code2048.com/tags/%E7%BC%96%E8%BE%91%E5%99%A8/</link>
+      <pubDate>Sun, 26 Feb 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/%E7%BC%96%E8%BE%91%E5%99%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>缩进</title>
+      <link>https://code2048.com/tags/%E7%BC%A9%E8%BF%9B/</link>
+      <pubDate>Fri, 09 Oct 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/%E7%BC%A9%E8%BF%9B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>脚本</title>
+      <link>https://code2048.com/tags/%E8%84%9A%E6%9C%AC/</link>
+      <pubDate>Fri, 23 Sep 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/%E8%84%9A%E6%9C%AC/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>自动化</title>
+      <link>https://code2048.com/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/</link>
+      <pubDate>Fri, 23 Sep 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>虚拟</title>
+      <link>https://code2048.com/tags/%E8%99%9A%E6%8B%9F/</link>
+      <pubDate>Sun, 15 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/%E8%99%9A%E6%8B%9F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>语言</title>
+      <link>https://code2048.com/tags/%E8%AF%AD%E8%A8%80/</link>
+      <pubDate>Wed, 03 May 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/%E8%AF%AD%E8%A8%80/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>部署</title>
+      <link>https://code2048.com/tags/%E9%83%A8%E7%BD%B2/</link>
+      <pubDate>Fri, 23 Sep 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/%E9%83%A8%E7%BD%B2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>部门</title>
+      <link>https://code2048.com/tags/%E9%83%A8%E9%97%A8/</link>
+      <pubDate>Wed, 27 Jul 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/%E9%83%A8%E9%97%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>销售</title>
+      <link>https://code2048.com/tags/%E9%94%80%E5%94%AE/</link>
+      <pubDate>Sun, 21 Aug 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/%E9%94%80%E5%94%AE/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>需求</title>
+      <link>https://code2048.com/tags/%E9%9C%80%E6%B1%82/</link>
+      <pubDate>Mon, 31 Oct 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/%E9%9C%80%E6%B1%82/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>面试</title>
+      <link>https://code2048.com/tags/%E9%9D%A2%E8%AF%95/</link>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/tags/%E9%9D%A2%E8%AF%95/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

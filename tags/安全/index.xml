@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>安全 on 神秘的程序员们</title>
+    <link>https://code2048.com/tags/%E5%AE%89%E5%85%A8/</link>
+    <description>Recent content in 安全 on 神秘的程序员们</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>code2048.com - All rights reserved</copyright>
+    <lastBuildDate>Mon, 28 Aug 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://code2048.com/tags/%E5%AE%89%E5%85%A8/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>我女朋友是个程序员……# 1</title>
+      <link>https://code2048.com/post/apimf02/</link>
+      <pubDate>Mon, 28 Aug 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/apimf02/</guid>
+      <description>&lt;p&gt;“你们这些愚昧的小白，你们的密码不被盗简直是对不起黑产这一行”&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>新来的安全专家，几个月后，哭了……</title>
+      <link>https://code2048.com/post/59/</link>
+      <pubDate>Wed, 16 Nov 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/59/</guid>
+      <description>&lt;p&gt;新入职了一位信息安全专家，他非常尽忠职守，特别费心得设计了各种规范和措施来保障公司系统的安全级别。但与此同时，在某个不为人知的角落……&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

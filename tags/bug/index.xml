@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bug on 神秘的程序员们</title>
+    <link>https://code2048.com/tags/bug/</link>
+    <description>Recent content in Bug on 神秘的程序员们</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>code2048.com - All rights reserved</copyright>
+    <lastBuildDate>Fri, 06 Jan 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://code2048.com/tags/bug/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>最低成本解决bug的方法</title>
+      <link>https://code2048.com/post/62/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/62/</guid>
+      <description>&lt;p&gt;解决bug有很多办法，其中有一个最简洁的方法是你想不到的。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>容器 on 神秘的程序员们</title>
+    <link>https://code2048.com/tags/%E5%AE%B9%E5%99%A8/</link>
+    <description>Recent content in 容器 on 神秘的程序员们</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>code2048.com - All rights reserved</copyright>
+    <lastBuildDate>Fri, 23 Sep 2016 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://code2048.com/tags/%E5%AE%B9%E5%99%A8/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>为什么程序员们喜欢写脚本？</title>
+      <link>https://code2048.com/post/57/</link>
+      <pubDate>Fri, 23 Sep 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/57/</guid>
+      <description>&lt;p&gt;重复200次只需花2小时的事，程序员会花5个小时写个脚本来解决。这是一种病吗？为什么程序员们爱写脚本？我们要不要消灭这些“破坏世界公平”的“坏码农”？&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

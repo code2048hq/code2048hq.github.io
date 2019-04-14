@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>男朋友 on 神秘的程序员们</title>
+    <link>https://code2048.com/tags/%E7%94%B7%E6%9C%8B%E5%8F%8B/</link>
+    <description>Recent content in 男朋友 on 神秘的程序员们</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>code2048.com - All rights reserved</copyright>
+    <lastBuildDate>Tue, 24 Oct 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://code2048.com/tags/%E7%94%B7%E6%9C%8B%E5%8F%8B/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>我男朋友是个程序员# 3 之《备份引发的血案》</title>
+      <link>https://code2048.com/post/apimf04/</link>
+      <pubDate>Tue, 24 Oct 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/apimf04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>我男朋友是个程序员# 2 之《噩梦》</title>
+      <link>https://code2048.com/post/apimf03/</link>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/apimf03/</guid>
+      <description>&lt;p&gt;一个只有程序员才会做的噩梦&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>我男朋友是个程序员……# 1</title>
+      <link>https://code2048.com/post/apimf01/</link>
+      <pubDate>Sun, 27 Aug 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/apimf01/</guid>
+      <description>&lt;p&gt;………… “听起来很聪明，有个程序员男朋友就是不一样” “那后来呢？” “呃……后来嘛…… 〠_〠&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

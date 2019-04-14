@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>语言 on 神秘的程序员们</title>
+    <link>https://code2048.com/tags/%E8%AF%AD%E8%A8%80/</link>
+    <description>Recent content in 语言 on 神秘的程序员们</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>code2048.com - All rights reserved</copyright>
+    <lastBuildDate>Wed, 03 May 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://code2048.com/tags/%E8%AF%AD%E8%A8%80/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>部落图鉴之Go：爹好还这么努力？</title>
+      <link>https://code2048.com/post/lang_go/</link>
+      <pubDate>Wed, 03 May 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/lang_go/</guid>
+      <description>&lt;p&gt;以你从未见过的方式讲述编程语言的故事&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>部落图鉴之JavaScript：你可以赞扬批评嘲讽它，但却无法忽略</title>
+      <link>https://code2048.com/post/lang_js/</link>
+      <pubDate>Wed, 30 Nov 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/lang_js/</guid>
+      <description>&lt;p&gt;以你从未见过的方式讲述编程语言的故事&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>千万不要在程序员群问代码……</title>
+      <link>https://code2048.com/post/53/</link>
+      <pubDate>Tue, 09 Aug 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/53/</guid>
+      <description>&lt;p&gt;从前，有一个小MM程序员，在学用python的过程中，遇到了这么一个问题：如何读取一种这种不规则的excel表？搜索无果后，她向一个80%都是程序员的群发起来求助……&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>部落图鉴之PHP：迎着全世界的嘲讽占领世界</title>
+      <link>https://code2048.com/post/lang_php/</link>
+      <pubDate>Mon, 16 Nov 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/lang_php/</guid>
+      <description>&lt;p&gt;以你从未见过的方式讲述编程语言的故事&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>编程语言图鉴</title>
+      <link>https://code2048.com/post/languagetribe/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/languagetribe/</guid>
+      <description>&lt;p&gt;以你从未见过的方式讲述编程语言的故事&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

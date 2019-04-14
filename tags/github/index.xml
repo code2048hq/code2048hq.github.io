@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Github on 神秘的程序员们</title>
+    <link>https://code2048.com/tags/github/</link>
+    <description>Recent content in Github on 神秘的程序员们</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>code2048.com - All rights reserved</copyright>
+    <lastBuildDate>Wed, 16 Nov 2016 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://code2048.com/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>新来的安全专家，几个月后，哭了……</title>
+      <link>https://code2048.com/post/59/</link>
+      <pubDate>Wed, 16 Nov 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/59/</guid>
+      <description>&lt;p&gt;新入职了一位信息安全专家，他非常尽忠职守，特别费心得设计了各种规范和措施来保障公司系统的安全级别。但与此同时，在某个不为人知的角落……&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

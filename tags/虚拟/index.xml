@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>虚拟 on 神秘的程序员们</title>
+    <link>https://code2048.com/tags/%E8%99%9A%E6%8B%9F/</link>
+    <description>Recent content in 虚拟 on 神秘的程序员们</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>code2048.com - All rights reserved</copyright>
+    <lastBuildDate>Sun, 15 Jan 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://code2048.com/tags/%E8%99%9A%E6%8B%9F/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>如果……你生活的世界只是个模拟器</title>
+      <link>https://code2048.com/post/63/</link>
+      <pubDate>Sun, 15 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://code2048.com/post/63/</guid>
+      <description>&lt;p&gt;作为一个专门写程序的人，你一定怀疑过～～
+整个世界其实只是运行在模拟器里的程序
+或者
+我自己其实也不过是一段程序……&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
